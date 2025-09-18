@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Incantations
+
+A sinfully built website showcasing the power of React and Claude Code with stunning visual effects and animations.
 
 ## Getting Started
 

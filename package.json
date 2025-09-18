@@ -1,6 +1,7 @@
 {
   "name": "incantations",
   "version": "0.1.0",
+  "description": "Andy - A sinfully built website with React and Claude Code",
   "private": true,
   "scripts": {
     "build": "next build --turbopack",
